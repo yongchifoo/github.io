@@ -34,9 +34,9 @@
     <section>
       <h2>Contact</h2>
       <ul class="contact-list">
-        <li>Email: <a href="mailto:your.email@example.com">yongchi_foo@yahoo.com</a></li>
+        <li>Email: <a href="mailto:yongchi_foo@yahoo.com">yongchi_foo@yahoo.com</a></li>
         <li>GitHub: <a href="https://github.com/yongchifoo" target="_blank">github.com/yongchifoo</a></li>
-        <li>LinkedIn: <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">linkedin.com/in/yong-chi-foo</a></li>
+        <li>LinkedIn: <a href="linkedin.com/in/yong-chi-foo" target="_blank">linkedin.com/in/yong-chi-foo</a></li>
       </ul>
     </section>
   </div>
